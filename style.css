@@ -1,0 +1,164 @@
+
+
+.header{
+    background-image: url('/images/banner/banner1.png');
+   background-repeat: no-repeat;
+   width: 1600px;
+height: 808px;
+margin-bottom: 131px;;
+
+
+
+}
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.div-title{
+color: rgb(21, 20, 20);
+font-size: 65px;
+font-weight: 700;
+text-align: right;
+margin:50px 230px 0px 845px;
+
+}
+.div-pera{
+    margin:24px 230px 32px 876px;
+color: rgb(68, 67, 67);
+font-size: 16px;
+font-weight: 400;
+text-align: right;
+
+}
+.button-primary{
+width: 160px;
+height: 64px;
+left: 1210px;
+right: -1210px;
+border-radius: 5px;
+background: rgb(241, 91, 34);
+border-style: none;
+
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 600;
+margin:0px 230px 166px 1210px;
+}
+
+.div-head{
+  padding-top: 160px;
+}
+
+.main{
+    
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+
+}
+
+.div-main-title{
+    width: 288px;
+height: 94px;
+    color: rgb(21, 20, 20);
+font-size: 40px;
+font-weight: 700;
+text-align: left;
+margin-bottom: 24px;
+}
+
+.div-img{
+    margin-top:0px;
+    margin-left:100px;
+    margin-right: 87px;
+}
+
+
+
+.div-real-main{
+    display: flex;
+}
+
+.div-main-pera{
+    margin-top:0px;
+    width: 416px;
+    
+    color: rgb(68, 67, 67);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.div-main-inside{
+    margin-top:250px;
+}
+
+.section-title{
+    margin-top:130px;
+    margin-left:500px;
+    width: 179px;
+height: 47px;
+    color: rgb(21, 20, 20);
+font-size: 40px;
+font-weight: 700;
+text-align:center;
+}
+
+.sec-div{
+    width: 218px;
+height: 197px;
+margin-top: 30px;
+margin-bottom: 136px;
+margin-left:130px;
+
+}
+.sec-div-title{
+    width: 250px;
+height: 35px;
+}
+.sec-div-main{
+    display: flex; 
+   
+}
+
+.watch{
+  background-image: url('/images/watch.png');
+  width: 1140px;
+  height: 300px;
+border-radius: 8px;
+margin: 135px 230px;
+border-radius: 8px;
+
+}
+
+.watch-title{
+    color: white;
+    
+    width: 459px;
+    height: 94px;
+font-size: 40px;
+font-weight: 700;
+
+}
+
+.watch-button{
+    color: rgb(241, 91, 34);
+
+font-size: 20px;
+font-weight: 600;
+width: 88px;
+height: 23px;
+border-radius: 5px;
+width: 160px;
+height: 64px;
+background: rgb(255, 255, 255);
+}
+
+.watch-list{
+    padding:59px 147px 59px 55px;
+}
+
+footer{
+    background-color: black;
+}
